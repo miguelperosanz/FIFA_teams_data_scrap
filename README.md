@@ -1,5 +1,5 @@
 # FIFA_teams_data_scrap
-Script to scrap the database from the teams of every season of the videogame "FIFA". The data are scratched from the web sofifa.com, an excellent data base of 
+Script to scrap the database from the teams of every season of the videogame "FIFA". The data are scraped from the web sofifa.com, an excellent data base of 
 football teams and football players. The script consists of two functions: scrap_fifa() and add_fifa_time().
 
 How does it work? let's imagine we want to download the data from the videogame FIFA 18. Then go ahead and type "scrap_fifa(18)". Name the data frame (for example 
