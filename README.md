@@ -10,6 +10,6 @@ I have used the "get" method for the database itself. The scrap of the Date of e
 I had to use Beautifulsoup. The combination of both things was probably the trickiest part of this little project, which actually belongs to my bigger project 
 about calculating odds for football games and who knows, maybe try to make some predictions about features such as number of goals in a game.
 
-I forgot to mention, the code scraps only the german, french, spanish and german leagues.
+I forgot to mention, the code scraps only the german, french, spanish and italian leagues.
 
 
